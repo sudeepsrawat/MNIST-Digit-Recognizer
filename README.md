@@ -24,7 +24,10 @@ git clone https://github.com/username/mnist-digit-recognizer.git
 * Run the app.py file to draw numbers  
 
 # Results  
-After training the model, the accuracy achieved on the test set is around 98%. The model is able to correctly recognize handwritten digits with high accuracy.
+After training the model, the accuracy achieved on the test set is around 98%. The model is able to correctly recognize handwritten digits with high accuracy.  
+
+# Output  
+![Screenshot 2023-04-13 131157](https://user-images.githubusercontent.com/101885608/231834789-4d167853-5d13-4270-8cd4-1453738c575b.png)
 
 # Credits  
 This project was created by Sudeep Rawat. The dataset used in this project is the MNIST dataset, which can be downloaded from http://yann.lecun.com/exdb/mnist/.
