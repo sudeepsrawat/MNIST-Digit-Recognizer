@@ -21,5 +21,11 @@ git clone https://github.com/username/mnist-digit-recognizer.git
 * cd mnist-digit-recognizer
 * Next install the required dependencies and packages
 * Run the Jupyter Notebook to train the model (you can use more number of epochs). This will generate the model "basemodel.h5"
-* Run the app.py file to draw numbers 
+* Run the app.py file to draw numbers  
+
+# Results  
+After training the model, the accuracy achieved on the test set is around 98%. The model is able to correctly recognize handwritten digits with high accuracy.
+
+# Credits  
+This project was created by Sudeep Rawat. The dataset used in this project is the MNIST dataset, which can be downloaded from http://yann.lecun.com/exdb/mnist/.
 
