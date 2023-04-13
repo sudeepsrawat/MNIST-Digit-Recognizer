@@ -4,10 +4,10 @@ This project is a Python implementation of a machine learning model that recogni
 # Dependencies
 The following dependencies are required to run the project:
 
-Python 3.5+
-NumPy
-Keras
-Matplotlib
+Python 3.5+  
+NumPy  
+Keras  
+Matplotlib  
 
 # Dataset
 The MNIST dataset is a collection of handwritten digits used for training image processing systems. It consists of 60,000 training images and 10,000 test images, with each image being a 28x28 grayscale image of a handwritten digit.
