@@ -15,7 +15,7 @@ The MNIST dataset is a collection of handwritten digits used for training image 
 # Model
 The model used in this project is a convolutional neural network (CNN) implemented in Keras. The CNN consists of two convolutional layers followed by two dense layers. 
 
-# Usage
+# Usage  
 * To use this project, first clone the repository:
 git clone https://github.com/username/mnist-digit-recognizer.git
 cd mnist-digit-recognizer
