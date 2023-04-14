@@ -17,7 +17,7 @@ The model used in this project is a convolutional neural network (CNN) implement
 
 # Usage  
 * To use this project, first clone the repository:  
-git clone https://github.com/username/mnist-digit-recognizer.git  
+git clone https://github.com/sudeepsrawat/MNIST-Digit-Recognizer.git  
 * cd mnist-digit-recognizer
 * Next install the required dependencies and packages
 * Run the Jupyter Notebook to train the model (you can use more number of epochs). This will generate the model "basemodel.h5"
